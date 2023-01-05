@@ -1,9 +1,9 @@
 # PayShop
-No fees
-No Transaction Rate.
-## =================
-uses nodejs, express, and discordjs
-with some other dependancies.
+##No fees
+##No Transaction Rate.
+
+##uses nodejs, express, and discordjs
+##with some other dependancies.
 
 
 > How to Setup
