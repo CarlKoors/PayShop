@@ -1,10 +1,9 @@
 # PayShop
-## No fees
-## No Transaction Rate.
+###### No fees
+###### No Transaction Rate.
 
-## uses nodejs, express, and discordjs
-## with some other dependencies.
-
+###### uses nodejs, express, and discordjs
+###### with some other dependencies.
 
 > Linux Setup
 1. You need NODE and NPM.
