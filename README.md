@@ -11,7 +11,7 @@
 - `sudo apt-get install -y nodejs`
   * `node -v`
   * `npm -v`
-- `npm install -g npm <- until fully up to date
+- `npm install -g npm` <- until fully up to date
 2. Install the Dependencies.
 - `mkdir {shopname};cd {shopname}`
 - `npm i discord.js; npm i axios;npm i express;npm i js-sha256`
