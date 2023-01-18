@@ -7,10 +7,12 @@ important ones I know a lot more but I don't really have a current use for them.
 ***PASSION** PROJECT*.
 
 > INFORMATION REGARDING PAYSHOP
+
   You will need to use the documenation-- markdown file --provided to gain an understanding of how to use this
 app correctly.
 
 ## SUPPORTED OS / OTHER
+
   PayShop does not-- with no future plans to-- support windows. Considering windows has forced updates linux
 is just a better operating system for this usecase.
   To get started:
