@@ -1,0 +1,8 @@
+{
+  "shopName": "Corny ShopName",
+  "Thumbnail": "url to thumbnail",
+  "footer": "take credit here", 
+  "prefix": "!",
+  "token": "DISCORD-BOT-TOKEN",
+  "port": "5000"
+}
